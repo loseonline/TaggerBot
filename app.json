@@ -1,0 +1,22 @@
+
+  "name" : " LøseØnlineRobot " ,
+  "logo" : " https://telegra.ph/file/50c0103e4548eaae95e4d.jpg " ,
+  "description" : " LøseØnlineBot bot sıze ucretsız uyelerinizi etiketleyen bir bottur. " ,
+  "env" : {
+    "TOKEN" : {
+      "description" : " bot token girin. " ,
+      "değer" : " "
+    },
+    "APP_ID" : {
+      "description" : " @otomytelegrambot dan api hash api kimliği alınız. @LoseØnlineRobot'a ortak çalışsın " ,
+      "değer" : " "
+    },
+    "API_HASH" : {
+      "description" : " @otomytelegrambot dan api hash api kimliği alınız. " ,
+      "değer" : " "
+    }
+  },
+  "yapı paketleri" : [{
+    "url" : " https://github.com/heroku/heroku-buildpack-python.git "
+  }]
+}
