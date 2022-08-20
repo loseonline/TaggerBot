@@ -8,7 +8,7 @@
       "değer" : " "
     },
     "APP_ID" : {
-      "description" : " @otomytelegrambot dan api hash api kimliği alınız. @LoseØnlineRobot'a ortak çalışsın " ,
+      "description" : " @otomytelegrambot dan api hash api kimliği alınız. @LoseOnlineRobot'a ortak çalışsın " ,
       "değer" : " "
     },
     "API_HASH" : {
