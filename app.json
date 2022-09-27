@@ -1,7 +1,7 @@
 {
-  "name" : " LøseØnlineRobot " ,
-  "logo" : " https://telegra.ph/file/501b48450e3e76704b618.jpg " ,
-  "description" : " LøseØnlineBot bot sıze ucretsız uyelerinizi etiketleyen bir bottur. " ,
+  "name" : " Murti Etiketleme Bot" ,
+  "logo" : "  " ,
+  "description" : " Üyelerinizi etiketleyen bir bottur. " ,
   "env" : {
     "TOKEN" : {
       "description" : " bot token girin. " ,
